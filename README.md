@@ -1,6 +1,6 @@
 # Hi 👋, I'm Abhiman Sri
 
-### Full Stack Web Development 
+### Full Stack Web Developer
 
 - 🌱 I'm currently learning **2nd Year Software Engineering**
 
