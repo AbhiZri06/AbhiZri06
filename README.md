@@ -2,10 +2,6 @@
 
 ### Full Stack Web Development 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhiZri06&label=Profile views&color=0e75b6&style=flat" alt="AbhiZri06" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbhiZri06" alt="AbhiZri06" /></a> </p>
-
 - 🌱 I'm currently learning **2nd Year Software Engineering**
 
 - 👯 I'm looking to collaborate on **Health Matters**
